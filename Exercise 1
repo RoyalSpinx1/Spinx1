@@ -1,0 +1,6 @@
+hours = float (input (24))
+rate = float (input (4.5))
+
+gross_pay = hours * rate 
+
+print (f"Pay: {gross_pay:.2f}")
